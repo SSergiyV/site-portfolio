@@ -18,8 +18,8 @@ $subject = urldecode($subject);
 $message = urldecode($message);
 
 if (mail(
-    "neowarewebdev@gmail.com",
-    "Новий лист з сайту 'NeowareWebDev'",
+    "aaa@gmail.com",
+    "Новий лист з сайту 'aaa'",
     "Ім'я: " . $name . "\n" .
         "E-mail: " . $email . "\n" .
         "Тема: " . $subject . "\n" .
@@ -69,7 +69,7 @@ if (mail(
             <p>Дякуємо за ваш запит.</p>
             <p>Ми зв'яжемося з Вами найближчим часом!</p>
         </div>
-        <a href="https://neowarewebdev.com.ua/" class="form__button reply__bytton ">На головну</a>
+        <a href="/" class="form__button reply__bytton ">На головну</a>
     </div>
 _END;
 } else {
