@@ -1,0 +1,15 @@
+[20-Jun-2022 10:16:30 UTC] PHP Warning:  Undefined variable $trim in /home/c78715/public_html/neowarewebdev.com.ua/core/mail.php on line 10
+[20-Jun-2022 10:16:30 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/c78715/public_html/neowarewebdev.com.ua/core/mail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/c78715/public_html/neowarewebdev.com.ua/core/mail.php on line 10
+[20-Jun-2022 10:21:25 UTC] PHP Warning:  Undefined variable $trim in /home/c78715/public_html/neowarewebdev.com.ua/core/mail.php on line 10
+[20-Jun-2022 10:21:25 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/c78715/public_html/neowarewebdev.com.ua/core/mail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/c78715/public_html/neowarewebdev.com.ua/core/mail.php on line 10
+[20-Jun-2022 10:22:10 UTC] PHP Warning:  Undefined variable $trim in /home/c78715/public_html/neowarewebdev.com.ua/core/mail.php on line 10
+[20-Jun-2022 10:22:10 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/c78715/public_html/neowarewebdev.com.ua/core/mail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/c78715/public_html/neowarewebdev.com.ua/core/mail.php on line 10
